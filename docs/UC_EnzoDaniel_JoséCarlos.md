@@ -1,8 +1,8 @@
 # DIAGRAMAÇÃO
 <img width="418" height="404" alt="image" src="https://github.com/user-attachments/assets/be053ac7-1c8b-458e-bec8-ac3532ce648a" />
-<br> Diagrama Recepcionista
+Diagrama Recepcionista
 <img width="418" height="404" alt="image" src="https://github.com/user-attachments/assets/08145321-8d66-4992-a0e8-e569741eb731" />
-<br> Diagrama Aluno
+Diagrama Aluno
 
 
 ---
